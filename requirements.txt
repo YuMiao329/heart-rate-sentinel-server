@@ -1,0 +1,6 @@
+sphinx
+pytest
+pytest-pycodestyle
+flask
+testfixtures
+
